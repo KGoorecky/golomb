@@ -1,1 +1,3 @@
 # golomb
+
+## Zajebista gra
